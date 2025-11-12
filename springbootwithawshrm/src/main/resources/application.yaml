@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://hrmcoredb.c1ca66m2kfr2.eu-north-1.rds.amazonaws.com:3306/hrmcoredb
+    username: root
+    password: vivekbhosale
+
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+server:
+  port: 5000
