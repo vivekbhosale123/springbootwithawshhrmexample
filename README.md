@@ -2,7 +2,7 @@
 
 spring boot with aws hrm application with 12 plus api
 
-
+http://springbootwithawshrmex-env.eba-vkdntvrh.eu-north-1.elasticbeanstalk.com/swagger-ui/index.html#/ 
 
 Spring boot with aws cloud
 
